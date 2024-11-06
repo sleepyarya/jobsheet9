@@ -1,5 +1,3 @@
-package jobsheet9;
-
 public class ArrayBilangan03 {
     public static void main(String[] args) {
         // int[] bil = new int [4];
